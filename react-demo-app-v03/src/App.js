@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <p>live update 1..</p>
+        <p>live update 1...</p>
       </header>
     </div>
   );
