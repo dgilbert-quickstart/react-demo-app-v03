@@ -7,7 +7,7 @@ function App() {
               <a href="#">useState demo 1</a><p></p>              
             </div>
             <div>
-              [displa info]
+              [displa info 1..]
             </div>
             <p>Footer @ 2025</p>
       </>
