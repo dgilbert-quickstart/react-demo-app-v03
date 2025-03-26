@@ -6,7 +6,8 @@ function NavBar()
         <>
             <nav>
                 <Link to="/">Home</Link> {" | "}
-                <Link to="/about">About</Link> 
+                <Link to="/about">About</Link> {" | "}
+                <Link to="/page1">Page1</Link> 
             </nav>
         </>
     )
