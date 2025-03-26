@@ -14,7 +14,7 @@ function Home() {
 
     return (
       <>
-          <p>Demo react app v3.0</p>
+          <p>Demo react app v3.1</p>
           <div>
             <a href="#" onClick={lnkdemo1}>useRef demo 1</a><p></p>
             <a href="#" onClick={lnkdemo2}>useState demo 1</a><p></p>              
