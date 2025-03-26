@@ -14,15 +14,15 @@ function Home() {
 
     return (
       <>
-              <p>Demo react app v3.0</p>
-              <div>
-                <a href="#" onClick={lnkdemo1}>useRef demo 1</a><p></p>
-                <a href="#" onClick={lnkdemo2}>useState demo 1</a><p></p>              
-              </div>
-              <div>
-                [displa info 1..]
-              </div>
-              <p>Footer @ 2025</p>
+          <p>Demo react app v3.0</p>
+          <div>
+            <a href="#" onClick={lnkdemo1}>useRef demo 1</a><p></p>
+            <a href="#" onClick={lnkdemo2}>useState demo 1</a><p></p>              
+          </div>
+          <div>
+            [displa info 1..]
+          </div>
+          <p>Footer @ 2025</p>
         </>
     );
   }
